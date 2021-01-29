@@ -1,10 +1,16 @@
 # Welcome to my Github 🦸‍♀️
-## My name is Anna Brander, I'm 
+## My name is Anna Brander, I'm a full stack web developer who is passionate about learning about new cultures, reading good books and making useful things.
+
 <!--
 **aelise17264/aelise17264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+⚙️ The languages I use the most are:
+![JavaScript](https://img.shields.io/badge/JavaScript-red)
+![Reactjs](https://img.shields.io/badge/Reactjs-lightblue)
+![Nodejs](https://img.shields.io/badge/Nodejs-green)
+
 
 🔭 I’m currently working on:
 - Graduating from Lambda School 🎓
