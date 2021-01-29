@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on
+-🔭 I’m currently working on
      - Graduating from Lambda School 🎓
      - Finishing 'The Complete 2021 Web Development Bootamp' by Dr. Angela Yu on Udemy 👩‍💻
      - Keeping up with JavaScript 30 🏃‍♀️
