@@ -4,6 +4,7 @@
 **aelise17264/aelise17264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...Lambda Labs
 - 🌱 I’m currently learning ...Bootstrap 5.0
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[LinkedIn Page](https://www.linkedin.com/in/aelise17264/)
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...My birthday is the same day as the presidential inauguration
--->
+
