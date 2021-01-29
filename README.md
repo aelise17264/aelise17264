@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
--🔭 I’m currently working on
-     - Graduating from Lambda School 🎓
-     - Finishing 'The Complete 2021 Web Development Bootamp' by Dr. Angela Yu on Udemy 👩‍💻
-     - Keeping up with JavaScript 30 🏃‍♀️
+🔭 I’m currently working on:
+- Graduating from Lambda School 🎓
+- Finishing 'The Complete 2021 Web Development Bootamp' by Dr. Angela Yu on Udemy 👩‍💻
+- Keeping up with JavaScript 30 🏃‍♀️
      
 🌱 I’m currently learning how to utilize the newest version of BootStrap to improve UX 🎨
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about my homemade pasta recipies 🍝
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aelise17264/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aelise17264/) [Gmail](aelise17264@gmail.com)
 
 😄 Pronouns: She/Her
 
