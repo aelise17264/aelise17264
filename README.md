@@ -1,4 +1,5 @@
-# Welcome to my Github 🦸‍♀️
+# Welcome to my Github 🦸‍♀️ 
+
 ## My name is Anna Brander, I'm a full stack web developer who is passionate about learning about new cultures, reading good books and making useful things.
 
 <!--
@@ -11,17 +12,19 @@ Here are some ideas to get you started:
 ![Reactjs](https://img.shields.io/badge/Reactjs-lightblue)
 ![Nodejs](https://img.shields.io/badge/Nodejs-green)
 
+🎓I recently graduated from Lambda School
+
+
+<img src ="https://images.youracclaim.com/size/110x110/images/866c4132-ed2f-44f5-83df-86bf2ae639d9/lambda-badge-full-stack-web.png"/>
+
 
 🔭 I’m currently working on:
-- Graduating from Lambda School 🎓
 - Finishing 'The Complete 2021 Web Development Bootamp' by Dr. Angela Yu on Udemy 👩‍💻
 - Keeping up with JavaScript 30 🏃‍♀️
      
 🌱 I’m currently learning how to utilize the newest version of BootStrap to improve UX 🎨
 
 👯 I’m looking to collaborate on useful React Apps 🖥️
-
-🆘 I’m looking for help with finding a job that will take me away from Colorado ✈️
 
 💬 Ask me about my homemade pasta recipies 🍝
 
