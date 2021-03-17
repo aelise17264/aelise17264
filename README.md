@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - Finishing 'The Complete 2021 Web Development Bootamp' by Dr. Angela Yu on Udemy 👩‍💻
 - Keeping up with JavaScript 30 🏃‍♀️
      
-🌱 I’m currently learning how to utilize the newest version of BootStrap to improve UX 🎨
+🌱 I’m currently diving deep into jQuery 🤿
 
-👯 I’m looking to collaborate on useful React Apps 🖥️
+👯 I’m looking to create useful and dynmaic apps 🖥️
 
 💬 Ask me about my homemade pasta recipies 🍝
 
