@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 📫Get in Touch
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aelise17264/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](aelise17264@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aelise17264@gmail.com)
 [<img src="https://img.shields.io/github/followers/aelise17264?label=follow&style=social" height="22" title="Follow me" />](https://github.com/aelise17264)
