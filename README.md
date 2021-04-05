@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Finishing 'The Complete 2021 Web Development Bootamp' by Dr. Angela Yu on Udemy 👩‍💻
 - Keeping up with JavaScript 30 🏃‍♀️
      
-🌱 I’m currently diving deep into APIs 🤿
+🌱 I’m currently diving deep into EJS 🤿
 
 👯 I’m looking to create useful and dynmaic apps 🖥️
 
