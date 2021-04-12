@@ -6,11 +6,15 @@
 **aelise17264/aelise17264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 ⚙️ The languages I use the most are:
 ![JavaScript](https://img.shields.io/badge/JavaScript-red)
 ![Reactjs](https://img.shields.io/badge/Reactjs-lightblue)
 ![Nodejs](https://img.shields.io/badge/Nodejs-green)
+
+-->
+
+
 
 🎓I recently graduated from Lambda School
 
@@ -30,7 +34,11 @@ Here are some ideas to get you started:
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: My birthday is the same day as the presidential inauguration
+<-- ⚡ Fun fact: My birthday is the same day as the presidential inauguration -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelise17264&layout=compact&theme=synthwave)](https://github.com/aelise17264/github-readme-stats)
+
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelise17264&ount_private=true&show_icons=true&theme=synthwave)
+
 
 📫Get in Touch
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aelise17264/)
