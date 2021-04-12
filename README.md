@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-🎓I recently graduated from <a href="https://www.credly.com/badges/1048c03a-af89-41da-a010-f5a5a8cceda7/linked_in"> Lambda School </a>
+🎓I am a recent graduate of <a href="https://www.credly.com/badges/1048c03a-af89-41da-a010-f5a5a8cceda7/linked_in"> Lambda School </a>
 
 
 <img src ="https://images.youracclaim.com/size/110x110/images/866c4132-ed2f-44f5-83df-86bf2ae639d9/lambda-badge-full-stack-web.png" />
