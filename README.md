@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on:
 - Keeping up with JavaScript 30 🏃‍♀️
-- Developing my portfolio 👩‍💻
      
 🌱 I’m currently diving deep into authentication 🤿
 
