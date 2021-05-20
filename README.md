@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-8712a14c-3a19-4d9c-9ee2-3da3df32c55e.jpg?v=1619022611000" height=75px/>
 
-
-🔭 I’m currently working on:
-- Keeping up with JavaScript 30 🏃‍♀️
      
-🌱 I’m currently diving deep into authentication 🤿
+🌱 I’m currently diving deep into React, Redux & React Native 🤿
 
 👯 I’m looking to create useful and dynmaic apps 🖥️
 
