@@ -24,7 +24,7 @@ Here are some ideas to get you started:
      
 <!-- 🌱 I’m currently diving deep into React, Redux & React Native 🤿 -->
 
-👯 I’m looking to create useful and dynmaic apps 🖥️
+👯 I’m looking to join a team that focuses on create useful, dynmaic and user friendly apps 🖥️
 
 💬 Ask me about my homemade pasta recipies 🍝
 
