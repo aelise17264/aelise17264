@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 📓✍️ I've been continuing to learn on Udemy through <a href="https://www.udemy.com/certificate/UC-8712a14c-3a19-4d9c-9ee2-3da3df32c55e/">The Complete 2021 Web Development Bootamp</a> with Dr. Angela Yu and <a href="https://www.udemy.com/certificate/UC-8154f8dc-14df-4003-b6cb-9e008218ca5f/">Advanced React and Redux</a> with Stephen Grider
      
-I’m currently diving deep into Python with Dr. Angela 🤿
+🤿 I’m currently diving deep into Python with Dr. Angela Yu's 100 Days of Code - The Complete Python Pro Bootcamp for 2021. Checkout my progress with this course at my Replit <a href="https://replit.com/@aelise">profile</a> 
 
 👯 I’m looking to join a team that focuses on create useful, dynmaic and user friendly apps 🖥️
 
