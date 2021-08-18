@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <img src ="https://images.youracclaim.com/size/110x110/images/866c4132-ed2f-44f5-83df-86bf2ae639d9/lambda-badge-full-stack-web.png"/>
 
-📓✍️ I've been continuing to learn on Udemy through <a href="https://www.udemy.com/certificate/UC-8712a14c-3a19-4d9c-9ee2-3da3df32c55e/">The Complete 2021 Web Development Bootamp</a> with Dr. Angela Yu and <a href="https://www.udemy.com/certificate/UC-8154f8dc-14df-4003-b6cb-9e008218ca5f/">Advanced React and Redux</a> & 'The Complete React Native + Hooks Course' with Stephen Grider
+📓✍️ I've been continuing to learn on Udemy through <a href="https://www.udemy.com/certificate/UC-8712a14c-3a19-4d9c-9ee2-3da3df32c55e/">The Complete 2021 Web Development Bootamp</a> with Dr. Angela Yu and <a href="https://www.udemy.com/certificate/UC-8154f8dc-14df-4003-b6cb-9e008218ca5f/">Advanced React and Redux</a> with Stephen Grider
      
-<!-- 🌱 I’m currently diving deep into React, Redux & React Native 🤿 -->
+I’m currently diving deep into Python with Dr. Angela 🤿
 
 👯 I’m looking to join a team that focuses on create useful, dynmaic and user friendly apps 🖥️
 
