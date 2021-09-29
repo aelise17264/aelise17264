@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: She/Her
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelise17264&layout=compact&theme=synthwave)](https://github.com/aelise17264/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelise17264&langs_count=6&layout=compact&theme=synthwave)](https://github.com/aelise17264/github-readme-stats)
 
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelise17264&ount_private=true&show_icons=true&theme=synthwave)
 
