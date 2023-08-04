@@ -1,6 +1,6 @@
 # Welcome to my Github 🦸‍♀️ 
 
-## My name is Anna Brander, I'm a mid level software developer who enjoys creating scalable, dynamic products that customers and users love.
+## My name is Anna Brander, I'm a software developer who enjoys creating scalable, dynamic products that customers and users love.
 
 
 🎓I am a graduate of <a href="https://www.credly.com/badges/1048c03a-af89-41da-a010-f5a5a8cceda7/linked_in"> Lambda School </a> 
