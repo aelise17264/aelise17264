@@ -1,13 +1,15 @@
 # Welcome to my Github 🦸‍♀️ 
 
-## My name is Anna Brander, I'm a software developer who enjoys creating scalable, dynamic products that customers and users love.
+## My name is Anna Brander, I'm a software developer who enjoys creating scalable, dynamic products that customers and users love. I specialize in Front End development for both mobile & web based applications.
 
 
 🎓I am a graduate of <a href="https://www.credly.com/badges/1048c03a-af89-41da-a010-f5a5a8cceda7/linked_in"> Lambda School </a> 
 
 <img src ="https://images.youracclaim.com/size/110x110/images/866c4132-ed2f-44f5-83df-86bf2ae639d9/lambda-badge-full-stack-web.png"/>
 
-🖥️ I'm currently working at Quantum Research International in Colorado Springs. You can learn more about my professional journey by visiting my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aelise17264/)
+🖥️ I'm currently looking for the next step in my career path. My goal is to find a position where I can effect real change through integrating my personal passions and professional skills in order to solve real world problems and effect real change.  
+
+You can learn more about my professional journey by visiting my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aelise17264/)
 
 😄 Pronouns: She/Her
 
