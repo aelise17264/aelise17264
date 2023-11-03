@@ -15,7 +15,7 @@ You can learn more about my professional journey by visiting my [![Linkedin](htt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelise17264&langs_count=5&layout=compact&theme=synthwave)](https://github.com/aelise17264/github-readme-stats)
 
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelise17264&ount_private=true&show_icons=true&theme=synthwave)
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelise17264&ount_private=true&show_icons=true&theme=synthwave&hide_rank=true)
 
 
 📫Get in Touch
