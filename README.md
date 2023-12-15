@@ -1,4 +1,5 @@
 # Welcome to my Github 🦸‍♀️ 
+![](https://komarev.com/ghpvc/?username=aelise17264&color=blue&style=for-the-badge&label=PROFILE+VIEWS+THIS+YEAR)
 
 ## My name is Anna Brander, I'm a software developer who enjoys creating scalable, dynamic products that customers and users love. I specialize in Front End development for both mobile & web based applications.
 
