@@ -8,7 +8,7 @@
 
 <img src ="https://images.youracclaim.com/size/110x110/images/866c4132-ed2f-44f5-83df-86bf2ae639d9/lambda-badge-full-stack-web.png"/>
 
-🖥️ I'm currently looking for the next step in my career path. My goal is to find a position where I can effect real change through integrating my personal passions and professional skills in order to solve real world problems and effect real change.  
+🖥️ I'm a hard working and passionate Front End Developer with hands-on experience making significant, specific and self-motivated contributions to challenging cross-platform projects.  I'm currently looking for a position to apply creative problem-solving and collaborative skills as part of a team.
 
 You can learn more about my professional journey by visiting my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aelise17264/)
 
