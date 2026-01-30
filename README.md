@@ -16,7 +16,7 @@
 
 Learn more about my professional journey by visiting my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aelise17264/)
 <div align="center">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=aelise17264&layout=pie&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=aelise17264&layout=pie&theme=synthwave&langs_count=8" />
   
 <a></a>
 
