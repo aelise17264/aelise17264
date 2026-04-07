@@ -4,7 +4,7 @@
 
 😄 Pronouns: She/Her
 
-## Hi! My name is Anna Brander, I'm a versatile Fluter developer with a strong passion for creating engaging and seamless user experiences across both web and mobile platforms. Utilizing tools in the Adobe Creative Suite I blend my technical expertise with creative design.
+## Hi! My name is Anna Brander, I'm a versatile mobile developer with a strong passion for creating engaging and seamless user experiences across both web and mobile platforms. Utilizing tools in the Adobe Creative Suite I blend my technical expertise with creative design.
 <div align="center">
   
   ![Background-intro](https://github.com/user-attachments/assets/ed43a809-dc26-4292-b7e4-dc17d7222309)
