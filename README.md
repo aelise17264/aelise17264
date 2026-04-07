@@ -10,7 +10,7 @@
   ![Background-intro](https://github.com/user-attachments/assets/ed43a809-dc26-4292-b7e4-dc17d7222309)
 </div>
 
-🖥️ I'm a hard working and passionate Flutter Developer with hands-on experience making significant, specific and self-motivated contributions to challenging cross-platform projects.  I'm currently looking for a position to apply creative problem-solving and collaborative skills as part of a team.
+🖥️ I'm a hard working and passionate mobile developer with hands-on experience making significant, specific and self-motivated contributions to challenging cross-platform projects.  I'm currently looking for a position to apply creative problem-solving and collaborative skills as part of a team.
 
 :thinking: If you're wondering "Why has her contribution activity dropped off?" That's because I've been diving into the Adobe Suite and learning how to do things like create original logos, informational videos and commericals. I'm having a lot of fun seeing what I can bring to life through tools like Adobe Illustrator and After Effects. But never fear, I'm still very enthusiatic about software development. This is just another tool in my utility belt that will help me create top of the line websites and apps. You can checkout some of the projects I've been working on by visiting my <a href="https://brander-portfolio.netlify.app/"> portfolio </a>
 
